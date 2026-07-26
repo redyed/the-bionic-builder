@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    { "source": "/ladder", "destination": "/ladder.html" },
+    { "source": "/ladder-confirmed", "destination": "/ladder-confirmed.html" },
+    { "source": "/privacy", "destination": "/privacy.html" },
+    { "source": "/terms", "destination": "/terms.html" }
+  ]
+}
